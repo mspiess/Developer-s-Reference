@@ -1,4 +1,5 @@
 site_name: "Developer's Reference"
+repo_url: https://github.com/mspiess/Developer-s-Reference
 theme:
   name: material
   features:
@@ -6,6 +7,7 @@ theme:
     - navigation.indexes
     - navigation.path
     - content.code.copy
+    - content.action.edit
 
 extra_javascript:
   - javascripts/markdown-review-comment-generator.js
