@@ -1,0 +1,26 @@
+site_name: "Developer's Reference"
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.path
+    - content.code.copy
+
+extra_javascript:
+  - javascripts/markdown-review-comment-generator.js
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - index.md
+  - Clean Code:
+    - Chapter 2 - Meaningful Names:
+      - clean-code/ch2-meaningful-names/index.md
+      - clean-code/ch2-meaningful-names/use-pronounceable-names.md
