@@ -11,7 +11,7 @@ See the following example:
     <markdown-review-comment-generator
         inputs="yourName, myName"
         generate="`Hi ${yourName},
-I'm trying out the [Developer's Reference](TODO).
+I'm trying out the [Developer's Reference](https://mspiess.github.io/Developer-s-Reference/).
 Seems *promising* so far.
 Let me know what **you** think!
 Best regards,

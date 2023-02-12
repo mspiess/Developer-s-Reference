@@ -18,6 +18,6 @@ Whereas the name `saveUserAdministratorButton` needs no explanations and allows 
         inputs="original, suggestion"
         generate="`The variable name \`${original}\` is not intuitively pronounceable.
 I suggest \`${suggestion}\`.
-For an explanation see [Clean Code: Chapter 2 - Meaningful Names > Use Pronounceable Names](TODO).`"
+For an explanation see [Clean Code: Chapter 2 - Meaningful Names > Use Pronounceable Names](https://mspiess.github.io/Developer-s-Reference/clean-code/ch2-meaningful-names/use-pronounceable-names/).`"
     />
 </div>
